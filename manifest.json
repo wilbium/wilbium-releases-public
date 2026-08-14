@@ -4,8 +4,8 @@
     "displayName": "WilbiDrum RP-01",
     "version": "1.0.0",
     "installSubdir": "WilbiDrum",
-    "downloadUrl": "",
-    "changelogUrl": "",
+    "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbidrum-v1.0.0/WilbiDrum-Setup-1.0.0.exe",
+    "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbidrum-v1.0.0",
     "comingSoon": false
   },
   {

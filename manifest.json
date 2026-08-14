@@ -1,0 +1,47 @@
+[
+  {
+    "id": "wilbidrum",
+    "displayName": "WilbiDrum RP-01",
+    "version": "1.0.0",
+    "installSubdir": "WilbiDrum",
+    "downloadUrl": "",
+    "changelogUrl": "",
+    "comingSoon": false
+  },
+  {
+    "id": "wilbisynth",
+    "displayName": "WilbiSynth",
+    "version": "",
+    "installSubdir": "WilbiSynth",
+    "downloadUrl": "",
+    "changelogUrl": "",
+    "comingSoon": true
+  },
+  {
+    "id": "wilbiloop",
+    "displayName": "WilbiLoop",
+    "version": "",
+    "installSubdir": "WilbiLoop",
+    "downloadUrl": "",
+    "changelogUrl": "",
+    "comingSoon": true
+  },
+  {
+    "id": "jammate",
+    "displayName": "JamMate",
+    "version": "",
+    "installSubdir": "JamMate",
+    "downloadUrl": "",
+    "changelogUrl": "",
+    "comingSoon": true
+  },
+  {
+    "id": "guitartrainer",
+    "displayName": "GuitarTrainer",
+    "version": "",
+    "installSubdir": "GuitarTrainer",
+    "downloadUrl": "",
+    "changelogUrl": "",
+    "comingSoon": true
+  }
+]

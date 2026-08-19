@@ -55,8 +55,8 @@
     "modelSizeBytes": 10149611520
   },
   "hubUpdate": {
-    "version": "1.0.1",
-    "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiumhub-v1.0.1/WilbiumHub-Setup-1.0.1.exe",
-    "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiumhub-v1.0.1"
+    "version": "1.0.2",
+    "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiumhub-v1.0.2/WilbiumHub-Setup-1.0.2.exe",
+    "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiumhub-v1.0.2"
   }
 }

@@ -49,8 +49,8 @@
   "aiEngine": {
     "version": "1.0.0",
     "launcherUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbium-ai-engine-real-v1.0.0/wilbium-ai-launcher.zip",
-    "runtimeUrl": "",
-    "modelUrl": "",
+    "runtimeUrl": "https://wilbiumstudios.com/downloads/wilbium-runtime.tar.gz",
+    "modelUrl": "https://wilbiumstudios.com/downloads/model-weights.tar",
     "runtimeSizeBytes": 3017657537,
     "modelSizeBytes": 10149611520
   }

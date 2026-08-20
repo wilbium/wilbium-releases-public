@@ -3,28 +3,28 @@
     {
       "id": "wilbidrum",
       "displayName": "WilbiDrum RP-01",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "installSubdir": "WilbiDrum",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbidrum-v1.0.0/WilbiDrum-Setup-1.0.0.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbidrum-v1.0.0",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbidrum-v1.0.1/WilbiDrum-Setup-1.0.1.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbidrum-v1.0.1",
       "comingSoon": false
     },
     {
       "id": "wilbisynth",
       "displayName": "WilbiSynth WX-01",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "installSubdir": "WilbiSynth",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbisynth-v1.0.0/WilbiSynth-Setup-1.0.0.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbisynth-v1.0.0",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbisynth-v1.0.1/WilbiSynth-Setup-1.0.1.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbisynth-v1.0.1",
       "comingSoon": false
     },
     {
       "id": "wilbiloop",
       "displayName": "WilbiLoop LP-01",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "installSubdir": "WilbiLoop",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.0/WilbiLoop-Setup-1.0.0.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.0",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.1/WilbiLoop-Setup-1.0.1.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.1",
       "comingSoon": false
     },
     {
@@ -47,8 +47,8 @@
     }
   ],
   "aiEngine": {
-    "version": "1.0.0",
-    "launcherUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbium-ai-engine-real-v1.0.0/wilbium-ai-launcher.zip",
+    "version": "1.0.1",
+    "launcherUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbium-ai-engine-real-v1.0.1/wilbium-ai-launcher.zip",
     "runtimeUrl": "https://wilbiumstudios.com/downloads/wilbium-runtime.tar.gz",
     "modelUrl": "https://wilbiumstudios.com/downloads/model-weights.tar",
     "runtimeSizeBytes": 3017657537,

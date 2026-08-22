@@ -3,10 +3,10 @@
     {
       "id": "wilbidrum",
       "displayName": "WilbiDrum RP-01",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "installSubdir": "WilbiDrum",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbidrum-v1.0.2/WilbiDrum-Setup-1.0.2.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbidrum-v1.0.2",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbidrum-v1.0.3/WilbiDrum-Setup-1.0.3.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbidrum-v1.0.3",
       "comingSoon": false
     },
     {

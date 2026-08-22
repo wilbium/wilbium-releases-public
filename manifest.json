@@ -12,19 +12,19 @@
     {
       "id": "wilbisynth",
       "displayName": "WilbiSynth WX-01",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "installSubdir": "WilbiSynth",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbisynth-v1.0.2/WilbiSynth-Setup-1.0.2.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbisynth-v1.0.2",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbisynth-v1.0.3/WilbiSynth-Setup-1.0.3.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbisynth-v1.0.3",
       "comingSoon": false
     },
     {
       "id": "wilbiloop",
       "displayName": "WilbiLoop LP-01",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "installSubdir": "WilbiLoop",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.2/WilbiLoop-Setup-1.0.2.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.2",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.3/WilbiLoop-Setup-1.0.3.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.3",
       "comingSoon": false
     },
     {

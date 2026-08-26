@@ -3,28 +3,28 @@
     {
       "id": "wilbidrum",
       "displayName": "WilbiDrum RP-01",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "installSubdir": "WilbiDrum",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbidrum-v1.0.6/WilbiDrum-Setup-1.0.6.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbidrum-v1.0.6",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbidrum-v1.0.7/WilbiDrum-Setup-1.0.7.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbidrum-v1.0.7",
       "comingSoon": false
     },
     {
       "id": "wilbisynth",
       "displayName": "WilbiSynth WX-01",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "installSubdir": "WilbiSynth",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbisynth-v1.0.6/WilbiSynth-Setup-1.0.6.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbisynth-v1.0.6",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbisynth-v1.0.7/WilbiSynth-Setup-1.0.7.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbisynth-v1.0.7",
       "comingSoon": false
     },
     {
       "id": "wilbiloop",
       "displayName": "WilbiLoop LP-01",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "installSubdir": "WilbiLoop",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.6/WilbiLoop-Setup-1.0.6.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.6",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.7/WilbiLoop-Setup-1.0.7.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.7",
       "comingSoon": false
     },
     {

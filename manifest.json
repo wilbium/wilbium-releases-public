@@ -21,10 +21,10 @@
     {
       "id": "wilbiloop",
       "displayName": "WilbiLoop LP-01",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "installSubdir": "WilbiLoop",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.12/WilbiLoop-Setup-1.0.12.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.12",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.13/WilbiLoop-Setup-1.0.13.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.13",
       "comingSoon": false
     },
     {

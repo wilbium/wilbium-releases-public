@@ -3,28 +3,28 @@
     {
       "id": "wilbidrum",
       "displayName": "WilbiDrum RP-01",
-      "version": "1.0.17",
+      "version": "1.0.18",
       "installSubdir": "WilbiDrum",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbidrum-v1.0.17/WilbiDrum-Setup-1.0.17.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbidrum-v1.0.17",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbidrum-v1.0.18/WilbiDrum-Setup-1.0.18.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbidrum-v1.0.18",
       "comingSoon": false
     },
     {
       "id": "wilbisynth",
       "displayName": "WilbiSynth WX-01",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "installSubdir": "WilbiSynth",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbisynth-v1.0.8/WilbiSynth-Setup-1.0.8.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbisynth-v1.0.8",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbisynth-v1.0.9/WilbiSynth-Setup-1.0.9.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbisynth-v1.0.9",
       "comingSoon": false
     },
     {
       "id": "wilbiloop",
       "displayName": "WilbiLoop LP-01",
-      "version": "1.0.20",
+      "version": "1.0.21",
       "installSubdir": "WilbiLoop",
-      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.20/WilbiLoop-Setup-1.0.20.exe",
-      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.20",
+      "downloadUrl": "https://github.com/wilbium/wilbium-releases-public/releases/download/wilbiloop-v1.0.21/WilbiLoop-Setup-1.0.21.exe",
+      "changelogUrl": "https://github.com/wilbium/wilbium-releases-public/releases/tag/wilbiloop-v1.0.21",
       "comingSoon": false
     },
     {
